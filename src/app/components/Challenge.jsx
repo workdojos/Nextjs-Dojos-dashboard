@@ -5,7 +5,7 @@ import TabButton from "./TabButton";
 
 const TAB_DATA = [
   {
-    title: "The Why",
+    title: "Why",
     id: "why",
     content: (
       <ul className="list-disc pl-2">
@@ -47,19 +47,6 @@ const TAB_DATA = [
   
     
   
-  },
-  {
-    title: "Objectives",
-    id: "objectives",
-    content: (
-      <ul className="list-disc pl-2">
-        <li>Take the helm as System Administrator</li>
-        <li>Tour your suite of pre-installed apps</li>
-        <li>Invite family, friends, colleagues</li>
-        <li>Collaborate</li>
-        <li>Build</li>
-      </ul>
-    ),
   },
   {
     title: "Future",
@@ -123,13 +110,6 @@ const AboutSection = () => {
               The Why{" "}
             </TabButton>
             <TabButton
-              selectTab={() => handleTabChange("objectives")}
-              active={tab === "objectives"}
-            >
-              {" "}
-              Objectives{" "}
-            </TabButton>
-            <TabButton
               selectTab={() => handleTabChange("rewards")}
               active={tab === "rewards"}
             >
@@ -141,7 +121,7 @@ const AboutSection = () => {
               active={tab === "future"}
             >
               {" "}
-              The Future{" "}
+              Future{" "}
             </TabButton>
             <TabButton
               selectTab={() => handleTabChange("costs")}
