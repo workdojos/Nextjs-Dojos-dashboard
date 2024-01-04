@@ -8,19 +8,19 @@ import MenuOverlay from "./MenuOverlay";
 const navLinks = [
   {
     title: "Marketing",
-    path: "https://dash.workdojos.com/#business",
+    path: "https://dash.workdojos.com/business",
   },
   {
     title: "Entertainment",
-    path: "https://dash.workdojos.com/#customers",
+    path: "https://dash.workdojos.com/customers",
   },
   {
     title: "Health",
-    path: "https://dash.workdojos.com/#health",
+    path: "https://dash.workdojos.com/health",
   },
   {
     title: "Wisdom",
-    path: "https://dash.workdojos.com/#knowledge",
+    path: "https://dash.workdojos.com/wisdom",
   },
 ];
 

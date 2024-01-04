@@ -1,6 +1,5 @@
-import DojosSection2 from "./components/DojosSection2";
-import Navbar from "./components/Navbar";
-
+import DojosSection from "../components/DojosSection";
+import Navbar from "../components/Navbar";
 
 
 
@@ -10,7 +9,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col bg-[#121212]">
       <Navbar />
       <div class="container mt-24 mx-auto px-12 py-4">
-        <DojosSection2 />
+        <DojosSection />
       </div>
     </main>
       
