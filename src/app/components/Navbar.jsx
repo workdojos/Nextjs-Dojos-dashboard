@@ -7,20 +7,20 @@ import MenuOverlay from "./MenuOverlay";
 
 const navLinks = [
   {
-    title: "About",
-    path: "http://zookeepers.workmates.live/#about",
+    title: "Marketing",
+    path: "https://dash.workdojos.com/#business",
   },
   {
-    title: "Resources",
-    path: "http://zookeepers.workmates.live/#resources",
+    title: "Entertainment",
+    path: "https://dash.workdojos.com/#customers",
   },
   {
-    title: "Pricing",
-    path: "https://blog.workdojos.com/#/portal/signup",
+    title: "Health",
+    path: "https://dash.workdojos.com/#health",
   },
   {
-    title: "Contact",
-    path: "http://zookeepers.workmates.live/#contact",
+    title: "Wisdom",
+    path: "https://dash.workdojos.com/#knowledge",
   },
 ];
 
