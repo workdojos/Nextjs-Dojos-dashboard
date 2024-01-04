@@ -1,5 +1,5 @@
-import DojosSection3 from "./components/DojosSection3";
-import Navbar from "./components/Navbar";
+import DojosSection3 from "../components/DojosSection3";
+import Navbar from "../components/Navbar";
 
 
 
