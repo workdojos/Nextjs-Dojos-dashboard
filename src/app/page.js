@@ -1,6 +1,5 @@
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
 import AchievementsSection from "./components/AchievementsSection";
 import Challenge from "./components/Challenge";
 import Join from "./components/Join";
@@ -19,7 +18,6 @@ export default function Home() {
         <Challenge />
         <Join />
       </div>
-      <Footer />
     </main>
       
   
