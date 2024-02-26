@@ -11,7 +11,7 @@ const dojosData = [
     description: "Use open-source technology to develop a collaborative platform for biologists, enabling real-time data sharing and analysis, fostering global scientific collaboration and accelerating breakthrough discoveries.",
     image: "/images/projects/biologist.webp",
     tag: ["All", "Science"],
-    gitUrl: "https://og.admins.live/#Biologists",
+    gitUrl: "Biologists",
     previewUrl: "/",
   },
   {
@@ -20,7 +20,7 @@ const dojosData = [
     description: "Use an open-source data visualization tool to create interactive, dynamic dashboards that showcase complex data insights, enhancing data scientists' ability to communicate findings effectively and engage stakeholders.",
     image: "/images/projects/datascientists.webp",
     tag: ["All", "Science"],
-    gitUrl: "https://og.admins.live/#Data-Scientists",
+    gitUrl: "Data-Scientists",
     previewUrl: "/",
   },
   {
@@ -29,7 +29,7 @@ const dojosData = [
     description: "As an Evangelist, use open-source technology to create a collaborative platform for sharing sermon resources and fostering online community engagement, empowering fellow evangelists to spread their message effectively and connect with a wider audience.",
     image: "/images/projects/evangelist.webp",
     tag: ["All", "Religion"],
-    gitUrl: "https://og.admins.live/#Evangelists",
+    gitUrl: "Evangelists",
     previewUrl: "/",
   },
   {
@@ -38,7 +38,7 @@ const dojosData = [
     description: "Open-source technology can be used by school teachers to create interactive educational games that engage students and promote collaborative learning experiences, fostering a fun and dynamic classroom environment.",
     image: "/images/projects/schoolteachers.webp",
     tag: ["All", "Education"],
-    gitUrl: "https://og.admins.live/#School-Teachers",
+    gitUrl: "School-Teachers",
     previewUrl: "/",
   },
   {
@@ -47,7 +47,7 @@ const dojosData = [
     description: "Create an open-source meditation app that allows spiritual coaches to offer guided meditation sessions, personalized affirmations, and mindfulness exercises to their clients, fostering spiritual growth and well-being while promoting community engagement and collaboration in the open-source community.",
     image: "images/projects/spiritualcoach.webp",
     tag: ["All", "Religion"],
-    gitUrl: "https://og.admins.live/#Spiritual-Coaches",
+    gitUrl: "Spiritual-Coaches",
     previewUrl: "/",
   },
   {
@@ -56,7 +56,7 @@ const dojosData = [
     description: "Create an open-source theological discussion platform where theologians can collaborate, share insights, and debate religious doctrines openly, fostering a global community of diverse perspectives and knowledge exchange.",
     image: "/images/projects/theologian.webp",
     tag: ["All", "Religion"],
-    gitUrl: "https://og.admins.live/#Theologians",
+    gitUrl: "Theologians",
     previewUrl: "/",
   },
 

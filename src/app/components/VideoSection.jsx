@@ -12,7 +12,7 @@ const dojosData = [
     description: "As an Account Executive, leverage open-source CRM software to seamlessly manage client relationships, track sales activities, and analyze data, enhancing sales effectiveness and productivity.",
     image: "/images/projects/accountexecutive.webp",
     tag: ["All", "Sales"],
-    gitUrl: "https://og.admins.live/#Account-Executives-Dojo",
+    gitUrl: "Account-Executives-Dojo",
     previewUrl: "/",
   },
   {
@@ -21,7 +21,7 @@ const dojosData = [
     description: "Open-source technology can be used by administrators to create a collaborative task management platform, allowing teams to efficiently coordinate and track their progress while fostering a sense of shared responsibility and engagement.",
     image: "/images/projects/administrator.webp",
     tag: ["All", "Admin"],
-    gitUrl: "https://og.admins.live/#Administrators",
+    gitUrl: "Administrators",
     previewUrl: "/",
   },
   {
@@ -30,7 +30,7 @@ const dojosData = [
     description: "As a clerk, you can utilize open-source technology to automate document management and streamline administrative tasks, improving efficiency and reducing manual workload.",
     image: "/images/projects/clerk.webp",
     tag: ["All", "Sales"],
-    gitUrl: "https://og.admins.live/#Clerks",
+    gitUrl: "Clerks",
     previewUrl: "/",
   },
   {
@@ -39,7 +39,7 @@ const dojosData = [
     description: "Utilizing open-source social media analytics tools, digital marketers can gain valuable insights on audience behavior, optimize campaigns, and measure the impact of their strategies, all while saving costs and fostering collaboration within the marketing team.",
     image: "images/projects/digitalmarketers.webp",
     tag: ["All", "Marketing"],
-    gitUrl: "https://og.admins.live/#Digital-Marketers",
+    gitUrl: "Digital-Marketers",
     previewUrl: "/",
   },
   {
@@ -48,7 +48,7 @@ const dojosData = [
     description: "Open-source technology can be used by lead generators to build a customizable chatbot that automates lead qualification and captures valuable customer information, enhancing efficiency and improving lead generation efforts.",
     image: "/images/projects/leadgenerator.webp",
     tag: ["All", "Marketing"],
-    gitUrl: "https://og.admins.live/#Lead-Generators",
+    gitUrl: "Lead-Generators",
     previewUrl: "/",
   },
   {
@@ -57,7 +57,7 @@ const dojosData = [
     description: "PR Representative: Utilizing open-source technology, create a dynamic media monitoring dashboard that consolidates real-time news mentions and social media analytics, enabling PR representatives to track and analyze brand sentiment and campaign effectiveness more efficiently.",
     image: "/images/projects/publicrelations.webp",
     tag: ["All", "Comms"],
-    gitUrl: "https://og.admins.live/#Public-Relations",
+    gitUrl: "Public-Relations",
     previewUrl: "/",
   },
   {
@@ -66,7 +66,7 @@ const dojosData = [
     description: "Open-source project management software provides collaborative task tracking and real-time updates, empowering project managers to efficiently coordinate teams and streamline project workflows.",
     image: "/images/projects/projectmanagers.webp",
     tag: ["All", "Admin"],
-    gitUrl: "https://og.admins.live/#Project-Managers",
+    gitUrl: "Project-Managers",
     previewUrl: "/",
   },
   {
@@ -75,7 +75,7 @@ const dojosData = [
     description: "Create an open-source virtual sales training platform that combines interactive simulations and AI-powered coaching to enhance sales coaching effectiveness, empowering sales coaches to train and mentor their teams remotely with engaging, personalized experiences.",
     image: "images/projects/salescoaches.webp",
     tag: ["All", "Sales"],
-    gitUrl: "https://og.admins.live/#Sales-Coaches",
+    gitUrl: "Sales-Coaches",
     previewUrl: "/",
   },
   {
@@ -84,7 +84,7 @@ const dojosData = [
     description: "Open-source technology can be utilized by telemarketers to create a personalized voice-bot assistant that dynamically adapts its responses based on caller preferences, enhancing customer engagement and satisfaction. This intelligent system can be further integrated with CRM platforms and analytics tools to optimize lead conversion rates and improve overall telemarketing performance.",
     image: "/images/projects/telemarketer.webp",
     tag: ["All", "Sales"],
-    gitUrl: "https://og.admins.live/#Telemarketers",
+    gitUrl: "Telemarketers",
     previewUrl: "/",
 
   },
