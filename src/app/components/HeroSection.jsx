@@ -36,7 +36,7 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
+          <p className="text-[#ADB7BE] text-base sm:text-lg m-8 b-6 lg:text-xl">
             Take the 60-day self-hosting challenge and behold the many wonders of open-source technology.  An ad-free space for bookmarks and links to your own apps, parked at your own domain.
           </p>
           <div>
@@ -58,7 +58,7 @@ const HeroSection = () => {
           <div className="lg:w-[400px] lg:h-[300px] relative ">
             <Image
               style={{borderRadius: 20}}
-              src="/images/typeX.gif"
+              src="/images/sandbox tv.svg"
               alt="A vintage tv depicting a tropical paradise"
               className=".img-container"
               width={307}
