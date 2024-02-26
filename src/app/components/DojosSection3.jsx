@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 10,
     title: "Social Workers",
-    description: "Open-source technology can be used by social workers to develop a collaborative platform for sharing resources, case studies, and best practices, fostering a global community of practitioners. This platform could also incorporate AI-powered analytics to identify trends and patterns, enabling data-driven decision-making and improving social interventions. By leveraging open-source technology, social workers can enhance their impact and create a more connected and effective support system for vulnerable populations.",
+    description: "Develop a platform for sharing resources, case studies, and best practices, fostering a global community of practitioners. By leveraging open-source technology, social workers can enhance their impact.",
     image: "/images/projects/socialworker.webp",
     tag: ["All", "Wellness"],
     gitUrl: "https://SocialWorker.workdojos.com",
