@@ -36,7 +36,7 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#ADB7BE] text-base sm:text-lg m-8 b-6 lg:text-xl">
+          <p className="text-[#ADB7BE] text-base sm:text-lg mr-12 mb-6 lg:text-xl">
             Take the 60-day self-hosting challenge and behold the many wonders of open-source technology.  An ad-free space for bookmarks and links to your own apps, parked at your own domain.
           </p>
           <div>
