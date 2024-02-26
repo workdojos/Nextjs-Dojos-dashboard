@@ -40,15 +40,6 @@ const HeroSection = () => {
             Take the 60-day self-hosting challenge and behold the many wonders of open-source technology.
           </p>
           <div>
-            <br></br>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            The dashboard is just the beginning.  A gateway to all your self-hosted apps.
-          </p>
-          <br></br>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Your server.  Your data.  You are in control.
-          </p>
-          <div>
             <Link
               href="https://blog.workdojos.com/#/portal/signup"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
