@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mr-10 mb-6 lg:text-xl">
-            Take the 60-day self-hosting challenge and behold the many wonders of open-source technology.  An ad-free space for bookmarks and links to your own apps parked at your own domain.
+            Take the 60-day self-hosting challenge and behold the many wonders of open-source technology.  An ad-free space for bookmarks and links to your own apps parked at your own domain.  And the dashboard is just the beginning!
           </p>
           <div>
             <Link
@@ -52,7 +52,7 @@ const HeroSection = () => {
           </div>
           <div>
             <Link
-              href="https://workmates.live/markeplace"
+              href="https://workmates.live/marketplace"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
               Browse All
