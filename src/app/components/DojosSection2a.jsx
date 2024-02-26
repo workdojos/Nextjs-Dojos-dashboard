@@ -6,12 +6,48 @@ import { motion, useInView } from "framer-motion";
 
 const dojosData = [
   {
+    id: 1,
+    title: "Animators",
+    description: "Use open-source animation software like Blender to create stunning 3D animations and collaborate with a global community of animators, accessing a vast library of free assets, plugins, and tutorials to bring your imagination to life.",
+    image: "/images/projects/animators.webp",
+    tag: ["All", "Design"],
+    gitUrl: "https://Animators.workdojos.com",
+    previewUrl: "/",
+  },
+  {
+    id: 3,
+    title: "Bartenders",
+    description: "Open-source technology can be used by bartenders to create a community-driven cocktail recipe database, allowing them to access and share innovative drink recipes with fellow mixologists for endless creativity and collaboration.",
+    image: "/images/projects/bartenders.webp",
+    tag: ["All", "Hospitality"],
+    gitUrl: "https://Bartenders.workdojos.com",
+    previewUrl: "/",
+  },
+  {
     id: 7,
     title: "Exhibitionists",
     description: "Open-source augmented reality (AR) software enables exhibitionists to create immersive and interactive art installations, captivating audiences with personalized experiences while fostering collaboration and creativity within the community.",
     image: "/images/projects/exhibitionist.webp",
     tag: ["All", "The Arts"],
     gitUrl: "https://Exhibitionists.workdojos.com",
+    previewUrl: "/",
+  },
+  {
+    id: 9,
+    title: "Graphic Designers",
+    description: "Open-source technology can enable graphic designers to collaborate and experiment with cutting-edge design tools and frameworks, fostering a vibrant community for sharing resources, inspiration, and creative solutions.",
+    image: "/images/projects/graphicdesigner.webp",
+    tag: ["All", "Design"],
+    gitUrl: "https://GraphicDesigner.workdojos.com",
+    previewUrl: "/",
+  },
+  {
+    id: 10,
+    title: "Jewelers",
+    description: "Use open-source 3D printing software and hardware to create customizable jewelry designs, empowering jewelers to offer unique and personalized pieces to their customers at an affordable cost.",
+    image: "images/projects/jeweler.webp",
+    tag: ["All", "The Arts"],
+    gitUrl: "https://Jeweler.workdojos.com",
     previewUrl: "/",
   },
   {
@@ -61,12 +97,22 @@ const DojosSection = () => {
       <div className="text-white flex flex-flow justify-center items-center gap-2 pb-8">
         <ProjectTag
           onClick={handleTagChange}
+          name="Design"
+          isSelected={tag === "Design"}
+        />
+        <ProjectTag
+          onClick={handleTagChange}
           name="Entertainment"
           isSelected={tag === "Entertainment"}
         />
         </div>
         <div className="text-white flex flex-flow justify-center items-center gap-2 pb-8">
         
+        <ProjectTag
+          onClick={handleTagChange}
+          name="Hospitality"
+          isSelected={tag === "Hospitality"}
+        />
         <ProjectTag
           onClick={handleTagChange}
           name="The Arts"

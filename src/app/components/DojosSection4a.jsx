@@ -32,6 +32,16 @@ const dojosData = [
     gitUrl: "https://SchoolTeachers.workdojos.com",
     previewUrl: "/",
   },
+  {
+    id: 6,
+    title: "Theologians",
+    description: "Create an open-source theological discussion platform where theologians can collaborate, share insights, and debate religious doctrines openly, fostering a global community of diverse perspectives and knowledge exchange.",
+    image: "/images/projects/theologian.webp",
+    tag: ["All", "Religion"],
+    gitUrl: "https://Theologian.workdojos.com",
+    previewUrl: "/",
+  },
+
 ];
 
 const DojosSection = () => {
@@ -69,6 +79,15 @@ const DojosSection = () => {
           name="Science"
           isSelected={tag === "Science"}
         />
+        </div>
+        <div className="text-white flex flex-flow justify-center items-center gap-2 pb-8">
+        
+        <ProjectTag
+          onClick={handleTagChange}
+          name="Religion"
+          isSelected={tag === "Religion"}
+        />
+
         </div>
   
       <ul ref={ref} className="grid md:grid-cols-3 gap-8 md:gap-12">
