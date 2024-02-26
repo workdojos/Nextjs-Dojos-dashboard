@@ -37,13 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Take the 60-day self-hosting challenge and behold the many wonders of open-source technology.
-          </p>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            The dashboard is your gateway to a customized suite of apps and information.
-          </p>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            100% self-hosted.  Your server, your data, you are in control.
+            Take the 60-day self-hosting challenge and behold the many wonders of open-source technology.  An ad-free space for bookmarks and links to your own apps, parked at your own domain.
           </p>
           <div>
             <Link
@@ -64,7 +58,7 @@ const HeroSection = () => {
           <div className="lg:w-[400px] lg:h-[300px] relative ">
             <Image
               style={{borderRadius: 20}}
-              src="/images/sandbox tv.svg"
+              src="/images/typeX.gif"
               alt="A vintage tv depicting a tropical paradise"
               className=".img-container"
               width={307}
