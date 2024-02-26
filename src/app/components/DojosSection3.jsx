@@ -10,7 +10,7 @@ const dojosData = [
     title: "Doctors",
     description: "Use open-source telemedicine platforms to enable doctors to provide remote consultations and collaborate with colleagues globally, improving accessibility to healthcare and facilitating knowledge sharing for better patient outcomes.",
     image: "/images/projects/clinician.webp",
-    tag: ["All", "Health & Wellness"],
+    tag: ["All", "Health"],
     gitUrl: "https://Clinician.workdojos.com",
     previewUrl: "/",
   },
@@ -19,7 +19,7 @@ const dojosData = [
     title: "Nurses",
     description: "Open-source project management software provides collaborative task tracking and real-time updates, empowering project managers to efficiently coordinate teams and streamline project workflows.",
     image: "/images/projects/registerednurse.webp",
-    tag: ["All", "Health & Wellness"],
+    tag: ["All", "Health"],
     gitUrl: "https://RegisteredNurse.workdojos.com",
     previewUrl: "/",
   },
@@ -28,7 +28,7 @@ const dojosData = [
     title: "Social Workers",
     description: "Open-source technology can be used by social workers to develop a collaborative platform for sharing resources, case studies, and best practices, fostering a global community of practitioners. This platform could also incorporate AI-powered analytics to identify trends and patterns, enabling data-driven decision-making and improving social interventions. By leveraging open-source technology, social workers can enhance their impact and create a more connected and effective support system for vulnerable populations.",
     image: "/images/projects/socialworker.webp",
-    tag: ["All", "Public Services"],
+    tag: ["All", "Wellness"],
     gitUrl: "https://SocialWorker.workdojos.com",
     previewUrl: "/",
   },
@@ -57,13 +57,19 @@ const DojosSection = () => {
     <section id="health">
             <br></br>
       <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
-        Health & Happiness
+        Health & Wellness
       </h2>
       <div className="text-white flex flex-flow justify-center items-center gap-2 pb-8">
+
         <ProjectTag
           onClick={handleTagChange}
-          name="Health & Wellness"
-          isSelected={tag === "Marketing"}
+          name="Health"
+          isSelected={tag === "Health"}
+        />
+        <ProjectTag
+          onClick={handleTagChange}
+          name="Wellness"
+          isSelected={tag === "Wellness"}
         />
         </div>
 
