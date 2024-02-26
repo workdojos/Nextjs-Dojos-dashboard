@@ -46,7 +46,9 @@ const HeroSection = () => {
             >
               Get a Dashboard
             </Link>
-            <br></br>
+          </div>
+          <div>
+          <br></br>
           </div>
           <div>
             <Link
