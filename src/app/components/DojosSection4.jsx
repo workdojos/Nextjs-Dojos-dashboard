@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 1,
     title: "Biologists",
-    description: "Use open-source technology to develop a collaborative platform for biologists, enabling real-time data sharing and analysis, fostering global scientific collaboration and accelerating breakthrough discoveries.",
+    description: "Develop a collaborative platform for biologists, enabling real-time data sharing and analysis, fostering global scientific collaboration and accelerating breakthrough discoveries.",
     image: "/images/projects/biologist.webp",
     tag: ["All", "Science"],
     gitUrl: "https://Biologists.workdojos.com",
@@ -17,7 +17,7 @@ const dojosData = [
   {
     id: 2,
     title: "Data Scientists",
-    description: "Use an open-source data visualization tool to create interactive, dynamic dashboards that showcase complex data insights, enhancing data scientists' ability to communicate findings effectively and engage stakeholders.",
+    description: "Create interactive, dynamic dashboards that showcase complex data insights, enhancing data scientists' ability to communicate findings effectively and engage stakeholders.",
     image: "/images/projects/datascientists.webp",
     tag: ["All", "Science"],
     gitUrl: "https://DataScientists.workdojos.com",
@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 4,
     title: "School Teachers",
-    description: "Open-source technology can be used by school teachers to create interactive educational games that engage students and promote collaborative learning experiences, fostering a fun and dynamic classroom environment.",
+    description: "Create interactive educational games that engage students and promote collaborative learning experiences, fostering a fun and dynamic classroom environment.",
     image: "/images/projects/schoolteachers.webp",
     tag: ["All", "Education"],
     gitUrl: "https://SchoolTeachers.workdojos.com",

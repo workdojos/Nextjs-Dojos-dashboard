@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 1,
     title: "Animators",
-    description: "Use open-source animation software like Blender to create stunning 3D animations and collaborate with a global community of animators, accessing a vast library of free assets, plugins, and tutorials to bring your imagination to life.",
+    description: "Use open-source animation software to create stunning 3D animations and bring your imagination to life.",
     image: "/images/projects/animators.webp",
     tag: ["All", "Design"],
     gitUrl: "https://Animators.workdojos.com",
@@ -17,7 +17,7 @@ const dojosData = [
   {
     id: 3,
     title: "Bartenders",
-    description: "Open-source technology can be used by bartenders to create a community-driven cocktail recipe database, allowing them to access and share innovative drink recipes with fellow mixologists for endless creativity and collaboration.",
+    description: "Create a community-driven cocktail database, share innovative drink recipes with fellow mixologists for endless creativity and collaboration.",
     image: "/images/projects/bartenders.webp",
     tag: ["All", "Hospitality"],
     gitUrl: "https://Bartenders.workdojos.com",
@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 7,
     title: "Exhibitionists",
-    description: "Open-source augmented reality (AR) software enables exhibitionists to create immersive and interactive art installations, captivating audiences with personalized experiences while fostering collaboration and creativity within the community.",
+    description: "Create immersive and interactive art installations, captivating audiences with personalized experiences while fostering collaboration and creativity within the community.",
     image: "/images/projects/exhibitionist.webp",
     tag: ["All", "The Arts"],
     gitUrl: "https://Exhibitionists.workdojos.com",

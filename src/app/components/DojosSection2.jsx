@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 12,
     title: "Thespians",
-    description: "Create a collaborative open-source platform for actors, directors, and playwrights to share and co-create scripts. This platform could also facilitate virtual auditions and rehearsals, making theater accessible to a wider audience and fostering a vibrant online theater community.",
+    description: "Create a platform for actors, directors, and playwrights to share and co-create scripts. Facilitate virtual auditions and rehearsals, fostering a vibrant online theater community.",
     image: "/images/projects/thespian.webp",
     tag: ["All", "The Arts"],
     gitUrl: "https://Thespian.workdojos.com",

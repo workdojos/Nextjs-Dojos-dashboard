@@ -17,7 +17,7 @@ const dojosData = [
   {
     id: 2,
     title: "Administrators",
-    description: "Open-source technology can be used by administrators to create a collaborative task management platform, allowing teams to efficiently coordinate and track their progress while fostering a sense of shared responsibility and engagement.",
+    description: "Create a collaborative task management platform, allowing teams to efficiently coordinate and track their progress while fostering a sense of shared responsibility and engagement.",
     image: "/images/projects/administrator.webp",
     tag: ["All", "Admin"],
     gitUrl: "https://Administrators.workdojos.com",
@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 5,
     title: "Digital Marketers",
-    description: "Utilizing open-source social media analytics tools, digital marketers can gain valuable insights on audience behavior, optimize campaigns, and measure the impact of their strategies, all while saving costs and fostering collaboration within the marketing team.",
+    description: "Digital marketers can gain valuable insights on audience behavior, optimize campaigns, and measure the impact of their strategies, all while saving costs and fostering collaboration within the marketing team.",
     image: "images/projects/digitalmarketers.webp",
     tag: ["All", "Marketing"],
     gitUrl: "https://DigitalMarketers.workdojos.com",
