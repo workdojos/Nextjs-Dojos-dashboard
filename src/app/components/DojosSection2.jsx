@@ -11,7 +11,7 @@ const dojosData = [
     description: "Create interactive art installations, captivating audiences with personalized experiences while fostering collaboration and creativity within the community.",
     image: "/images/projects/exhibitionist.webp",
     tag: ["All", "The Arts"],
-    gitUrl: "https://Exhibitionists.workdojos.com",
+    gitUrl: "https://Exhibitionist.workdojos.com",
     previewUrl: "/",
   },
   {
