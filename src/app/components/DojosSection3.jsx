@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 2,
     title: "Doctors",
-    description: "Enable doctors to provide remote consultations and collaborate with colleagues globally, improving accessibility to healthcare and facilitating knowledge sharing for better patient outcomes.",
+    description: "Provide remote consultations and collaborate with colleagues globally, facilitating knowledge sharing for better patient outcomes.",
     image: "/images/projects/clinician.webp",
     tag: ["All", "Health"],
     gitUrl: "https://Clinician.workdojos.com",
@@ -17,7 +17,7 @@ const dojosData = [
   {
     id: 9,
     title: "Nurses",
-    description: "Provides collaborative task tracking and real-time updates, empowering project managers to efficiently coordinate teams and streamline project workflows.",
+    description: "Spin up a platform for collaborative task tracking, empowering nurses to efficiently manage patients.",
     image: "/images/projects/registerednurse.webp",
     tag: ["All", "Health"],
     gitUrl: "https://RegisteredNurse.workdojos.com",
@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 10,
     title: "Social Workers",
-    description: "Share resources, case studies, and best practices, fostering a global community of practitioners. By leveraging open-source technology, social workers can enhance their impact.",
+    description: "Share resources, case studies, and best practices, fostering a global community of social workers making an impact.",
     image: "/images/projects/socialworker.webp",
     tag: ["All", "Wellness"],
     gitUrl: "https://SocialWorker.workdojos.com",

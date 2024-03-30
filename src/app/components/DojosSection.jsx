@@ -28,7 +28,7 @@ const dojosData = [
     title: "Digital Marketers",
     description: "Digital marketers can gain valuable insights on audience behavior, optimize campaigns, and measure the impact of their strategies, all while saving costs and fostering collaboration within the marketing team.",
     image: "images/projects/digitalmarketers.webp",
-    tag: ["All", "Marketing"],
+    tag: ["All", "Sales"],
     gitUrl: "https://DigitalMarketers.workdojos.com",
     previewUrl: "/",
   },
@@ -60,11 +60,7 @@ const DojosSection = () => {
         Grow your Business
       </h2>
       <div className="text-white flex flex-flow justify-center items-center gap-2 pb-8">
-        <ProjectTag
-          onClick={handleTagChange}
-          name="Marketing"
-          isSelected={tag === "Marketing"}
-        />
+
         <ProjectTag
           onClick={handleTagChange}
           name="Admin"

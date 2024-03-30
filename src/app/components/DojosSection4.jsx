@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 1,
     title: "Biologists",
-    description: "Develop a collaborative platform for biologists, enabling real-time data sharing and analysis, fostering global scientific collaboration and accelerating breakthrough discoveries.",
+    description: "Develop a platform for real-time data sharing and analysis, fostering collaboration and accelerating breakthrough discoveries.",
     image: "/images/projects/biologist.webp",
     tag: ["All", "Science"],
     gitUrl: "https://Biologists.workdojos.com",
@@ -17,7 +17,7 @@ const dojosData = [
   {
     id: 2,
     title: "Data Scientists",
-    description: "Create interactive, dynamic dashboards that showcase complex data insights, enhancing data scientists' ability to communicate findings effectively and engage stakeholders.",
+    description: "Create dynamic dashboards that showcase complex data insights.",
     image: "/images/projects/datascientists.webp",
     tag: ["All", "Science"],
     gitUrl: "https://DataScientists.workdojos.com",
@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 4,
     title: "School Teachers",
-    description: "Create interactive educational games that engage students and promote collaborative learning experiences, fostering a fun and dynamic classroom environment.",
+    description: "Create interactive games that engage students and promote collaboration, fostering a fun and dynamic classroom environment.",
     image: "/images/projects/schoolteachers.webp",
     tag: ["All", "Education"],
     gitUrl: "https://SchoolTeachers.workdojos.com",

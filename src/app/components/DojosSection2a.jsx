@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 1,
     title: "Animators",
-    description: "Use open-source animation software to create stunning 3D animations and bring your imagination to life.",
+    description: "Create stunning 3D animations using AI and bring your imagination to life.",
     image: "/images/projects/animators.webp",
     tag: ["All", "Design"],
     gitUrl: "https://Animators.workdojos.com",
@@ -17,7 +17,7 @@ const dojosData = [
   {
     id: 3,
     title: "Bartenders",
-    description: "Create a community-driven cocktail database, share innovative drink recipes with fellow mixologists for endless creativity and collaboration.",
+    description: "Create a platform to share innovative drink recipes with fellow mixologists.",
     image: "/images/projects/bartenders.webp",
     tag: ["All", "Hospitality"],
     gitUrl: "https://Bartenders.workdojos.com",
@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 7,
     title: "Exhibitionists",
-    description: "Create immersive and interactive art installations, captivating audiences with personalized experiences while fostering collaboration and creativity within the community.",
+    description: "Create immersive art installations, captivating audiences while fostering collaboration within the community.",
     image: "/images/projects/exhibitionist.webp",
     tag: ["All", "The Arts"],
     gitUrl: "https://Exhibitionists.workdojos.com",
