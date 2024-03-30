@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 2,
     title: "Doctors",
-    description: "Provide remote consultations and collaborate with colleagues globally, facilitating knowledge sharing for better patient outcomes.",
+    description: "Provide remote consultations and innovative knowledge sharing for better patient outcomes.",
     image: "/images/projects/clinician.webp",
     tag: ["All", "Health"],
     gitUrl: "https://Clinician.workdojos.com",
@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 10,
     title: "Social Workers",
-    description: "Share resources, case studies, and best practices, fostering a global community of social workers making an impact.",
+    description: "Share resources, case studies, best practices, and build communities that can make an impact.",
     image: "/images/projects/socialworker.webp",
     tag: ["All", "Wellness"],
     gitUrl: "https://SocialWorker.workdojos.com",

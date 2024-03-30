@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 7,
     title: "Exhibitionists",
-    description: "Create interactive art, captivating audiences while fostering collaboration and creativity within the community.",
+    description: "Create interactive art, captivating audiences while fostering community collaboration and creativity.",
     image: "/images/projects/exhibitionist.webp",
     tag: ["All", "The Arts"],
     gitUrl: "https://Exhibitionist.workdojos.com",
@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 12,
     title: "Thespians",
-    description: "Create a platform for actors, directors, and playwrights co-create scripts. Facilitate virtual auditions.  Foster a vibrant online theater community.",
+    description: "Facilitate virtual auditions.  Foster a vibrant online theater community.",
     image: "/images/projects/thespian.webp",
     tag: ["All", "The Arts"],
     gitUrl: "https://Thespian.workdojos.com",

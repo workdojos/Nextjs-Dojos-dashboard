@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 1,
     title: "Account Executive",
-    description: "As an Account Executive, leverage open-source CRM software to seamlessly manage client relationships, track sales activities, and analyze data, enhancing sales effectiveness and productivity.",
+    description: "Manage client relationships, track sales activities, and impress your customers with your own tech stack.",
     image: "/images/projects/accountexecutive.webp",
     tag: ["All", "Sales"],
     gitUrl: "https://AccountExecutive.workdojos.com",
@@ -17,7 +17,7 @@ const dojosData = [
   {
     id: 2,
     title: "Administrators",
-    description: "Create a collaborative task management platform, allowing teams to efficiently coordinate and track their progress while fostering a sense of shared responsibility and engagement.",
+    description: "Create a patient task management platform, while fostering a sense of shared responsibility and engagement.",
     image: "/images/projects/administrator.webp",
     tag: ["All", "Admin"],
     gitUrl: "https://Administrators.workdojos.com",
@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 5,
     title: "Digital Marketers",
-    description: "Digital marketers can gain valuable insights on audience behavior, optimize campaigns, and measure the impact of their strategies, all while saving costs and fostering collaboration within the marketing team.",
+    description: "Get a competitive (and cost-effective) edge for all things digital.",
     image: "images/projects/digitalmarketers.webp",
     tag: ["All", "Sales"],
     gitUrl: "https://DigitalMarketers.workdojos.com",
