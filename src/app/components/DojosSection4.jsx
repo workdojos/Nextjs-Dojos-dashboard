@@ -11,7 +11,7 @@ const dojosData = [
     description: "Develop a platform for real-time data sharing and analysis, fostering collaboration and accelerating breakthrough discoveries.",
     image: "/images/projects/biologist.webp",
     tag: ["All", "Science"],
-    gitUrl: "https://Biologists.workdojos.com",
+    gitUrl: "https://Biologist.workdojos.com",
     previewUrl: "/",
   },
   {
