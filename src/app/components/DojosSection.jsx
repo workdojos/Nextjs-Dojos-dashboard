@@ -17,7 +17,7 @@ const dojosData = [
   {
     id: 2,
     title: "Administrators",
-    description: "Create a patient task management platform, while fostering a sense of shared responsibility and engagement.",
+    description: "Spin up free apps to accelerate task management, productivity, and collaboration for teams.",
     image: "/images/projects/administrator.webp",
     tag: ["All", "Admin"],
     gitUrl: "https://Administrators.workdojos.com",
