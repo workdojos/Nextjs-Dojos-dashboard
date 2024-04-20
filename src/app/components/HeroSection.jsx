@@ -40,12 +40,9 @@ const HeroSection = () => {
             Take the 60-day self-hosting challenge and behold the many wonders of open-source technology.
           </p>
           <div>
-            <Link
-              href="https://blog.workdojos.com/#/portal/signup"
-              className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
-            >
+            <a target="_blank" href="https://blog.workdojos.com/#/portal/signup" rel="noopener noreferrer">
+            </a>
               Get a Dashboard
-            </Link>
           </div>
           <div>
           <br></br>
