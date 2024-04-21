@@ -7,7 +7,7 @@ import MenuOverlay from "./MenuOverlay";
 
 const navLinks = [
   {
-    title: "Marketing",
+    title: "Business",
     path: "https://dash.workdojos.com/business",
   },
   {
@@ -21,6 +21,22 @@ const navLinks = [
   {
     title: "Wisdom",
     path: "https://dash.workdojos.com/wisdom",
+  },
+  {
+    title: "Legal",
+    path: "https://dash.workdojos.com/legal",
+  },
+  {
+    title: "Hospitality",
+    path: "https://dash.workdojos.com/hospitality",
+  },
+  {
+    title: "Tech",
+    path: "https://dash.workdojos.com/tech",
+  },
+  {
+    title: "Nature",
+    path: "https://dash.workdojos.com/nature",
   },
 ];
 
