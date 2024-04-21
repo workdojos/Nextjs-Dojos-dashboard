@@ -1,4 +1,4 @@
-import DojosSection3 from "../components/DojosSection3";
+import TechSection from "../components/TechSection";
 import Navbar from "../components/Navbar";
 
 

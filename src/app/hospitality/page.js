@@ -1,4 +1,4 @@
-import DojosSection2 from "../components/DojosSection2";
+import HospitalitySection from "../components/HospitalitySection";
 import Navbar from "../components/Navbar";
 
 
