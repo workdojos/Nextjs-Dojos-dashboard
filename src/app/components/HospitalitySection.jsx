@@ -53,7 +53,7 @@ const DojosSection = () => {
   };
 
   return (
-    <section id="customers">
+    <section id="hospitality">
             <br></br>
       <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
         Wow your Customers
