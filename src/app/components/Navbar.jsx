@@ -19,25 +19,30 @@ const navLinks = [
     path: "https://dash.workdojos.com/health",
   },
   {
-    title: "Wisdom",
-    path: "https://dash.workdojos.com/wisdom",
+    title: "Hospitality",
+    path: "https://dash.workdojos.com/hospitality",
   },
   {
     title: "Legal",
     path: "https://dash.workdojos.com/legal",
   },
   {
-    title: "Hospitality",
-    path: "https://dash.workdojos.com/hospitality",
-  },
-  {
-    title: "Tech",
-    path: "https://dash.workdojos.com/tech",
-  },
-  {
     title: "Nature",
     path: "https://dash.workdojos.com/nature",
   },
+  {
+        title: "Tech",
+    path: "https://dash.workdojos.com/tech",
+  },
+  {
+    title: "Travel",
+    path: "https://dash.workdojos.com/travel",
+},
+  {
+    title: "Wisdom",
+    path: "https://dash.workdojos.com/wisdom",
+  },
+
 ];
 
 const Navbar = () => {
