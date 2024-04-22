@@ -54,21 +54,21 @@ const DojosSection = () => {
   };
 
   return (
-    <section id="legal">
+    <section id="law">
 
       <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
-        Grow your Business
+        Public safety and personal protections
       </h2>
       <div className="text-white flex flex-flow justify-center items-center gap-2 pb-8">
 
         <ProjectTag
           onClick={handleTagChange}
-          name="Admin"
-          isSelected={tag === "Public"}
+          name="Public Service"
+          isSelected={tag === "Public Service"}
         />
         <ProjectTag
           onClick={handleTagChange}
-          name="Sales"
+          name="Law"
           isSelected={tag === "Law"}
         />
         </div>

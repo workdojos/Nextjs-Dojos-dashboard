@@ -23,16 +23,16 @@ const navLinks = [
     path: "https://dash.workdojos.com/hospitality",
   },
   {
-    title: "Legal",
-    path: "https://dash.workdojos.com/legal",
+    title: "Law",
+    path: "https://dash.workdojos.com/law",
   },
   {
     title: "Nature",
     path: "https://dash.workdojos.com/nature",
   },
   {
-        title: "Tech",
-    path: "https://dash.workdojos.com/tech",
+        title: "Technology",
+    path: "https://dash.workdojos.com/technology",
   },
   {
     title: "Travel",

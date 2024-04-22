@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 1,
     title: "Growers",
-    description: "Put the art of growing in one centralized hub.  Sow the seeds of your digital future for free.",
+    description: "Get lit in more ways than one!  Marry technology with your love for weed.",
     image: "/images/projects/growers.webp",
     tag: ["All", "Horticulture"],
     gitUrl: "https://Growers.workdojos.com",
@@ -56,17 +56,17 @@ const DojosSection = () => {
     <section id="nature">
             <br></br>
       <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
-        The Pursuit of Knowledge
+        Sowing the seeds of the future
       </h2>
       <div className="text-white flex flex-flow justify-center items-center gap-2 pb-8">
         <ProjectTag
           onClick={handleTagChange}
-          name="Education"
+          name="Farming"
           isSelected={tag === "Farming"}
         />
         <ProjectTag
           onClick={handleTagChange}
-          name="Science"
+          name="Horticulture"
           isSelected={tag === "Horticultre"}
         />
         </div>
