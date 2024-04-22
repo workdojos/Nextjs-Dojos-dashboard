@@ -18,8 +18,8 @@ const dojosData = [
     id: 2,
     title: "Administrators",
     description: "Spin up free apps to accelerate task management, productivity, and collaboration for teams.",
-    image: "/images/projects/administrator.webp",
-    tag: ["All", "Admin"],
+    image: "/images/projects/administrators.webp",
+    tag: ["All", "Administration"],
     gitUrl: "https://Administrators.workdojos.com",
     previewUrl: "/",
   },
@@ -63,7 +63,7 @@ const DojosSection = () => {
 
         <ProjectTag
           onClick={handleTagChange}
-          name="Admin"
+          name="Administration"
           isSelected={tag === "Admin"}
         />
         <ProjectTag
