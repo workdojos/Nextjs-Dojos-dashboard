@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 1,
     title: "Law Enforcement",
-    description: "Engage with the community with apps suited for connectivity and public safety."
+    description: "Engage with the community with apps suited for connectivity and public safety.",
     image: "/images/projects/lawenforcement.webp",
     tag: ["All", "Public Service"],
     gitUrl: "https://LawEnforcement.workdojos.com",
