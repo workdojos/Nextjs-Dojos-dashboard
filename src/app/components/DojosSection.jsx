@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 1,
     title: "Account Executive",
-    description: "Manage client relationships, track sales activities, and impress your customers with your own tech stack.",
+    description: "Spin up apps to help drive sales, wow your customers with free technology.",
     image: "/images/projects/accountexecutive.webp",
     tag: ["All", "Sales"],
     gitUrl: "https://AccountExecutive.workdojos.com",

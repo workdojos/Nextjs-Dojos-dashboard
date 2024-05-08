@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 1,
     title: "Law Enforcement",
-    description: "Manage client relationships, track sales activities, and impress your customers with your own tech stack.",
+    description: "Engage with the community with apps suited for connectivity and public safety.
     image: "/images/projects/lawenforcement.webp",
     tag: ["All", "Public Service"],
     gitUrl: "https://LawEnforcement.workdojos.com",
@@ -17,7 +17,7 @@ const dojosData = [
   {
     id: 2,
     title: "Lawyers",
-    description: "Create virtual lawyers at-the-ready powered by AI, tackle tough cases, and grow your business or law firm.",
+    description: "A free suite of legal apps custom-made for modern tech-savvy lawyers.",
     image: "/images/projects/litigator.webp",
     tag: ["All", "Law"],
     gitUrl: "https://Litigator.workdojos.com",
@@ -26,7 +26,7 @@ const dojosData = [
   {
     id: 5,
     title: "Firefighters",
-    description: "Create a local dashboard with everything you need to know about fire safety and real-time conditions.",
+    description: "Create a local dashboard with everything you need to know about fire safety.",
     image: "images/projects/firefighters.webp",
     tag: ["All", "Public Service"],
     gitUrl: "https://Firefighters.workdojos.com",

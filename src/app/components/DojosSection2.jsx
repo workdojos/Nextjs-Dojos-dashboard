@@ -8,7 +8,7 @@ const dojosData = [
   {
     id: 7,
     title: "Exhibitionists",
-    description: "Create interactive art, captivating audiences while fostering community collaboration and creativity.",
+    description: "Create interactive art, captivating audiences while fostering community collaboration.",
     image: "/images/projects/exhibitionist.webp",
     tag: ["All", "The Arts"],
     gitUrl: "https://Exhibitionist.workdojos.com",

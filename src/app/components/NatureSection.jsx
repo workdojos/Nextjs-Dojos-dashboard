@@ -17,7 +17,7 @@ const dojosData = [
   {
     id: 2,
     title: "Botanists",
-    description: "Reign in the world of plants.  Create the ultimate botany hub using free and open-source tech.",
+    description: "Reign in the world of plants.  Create the ultimate botany hub using free technology.",
     image: "/images/projects/botanist.webp",
     tag: ["All", "Horticulture"],
     gitUrl: "https://Botanist.workdojos.com",
